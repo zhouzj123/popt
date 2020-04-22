@@ -14,3 +14,5 @@ Application Development" by Michael K. Johnson and Erik Troan (available
 from Addison Wesley in May, 1998).
 
 Comments on popt should be addressed to popt-devel@rpm5.org.
+
+如遇到./autogen.sh  Error: 'libtool' not found : sudo apt install libtool-bin
